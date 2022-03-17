@@ -1,0 +1,24 @@
+half carry -> entra dos bits i surt la suma i un carry
+full carry -> entra dos bits a sumar i un carry in i surt un carry out i el valor de suma
+
+Per saber els transistors que té una porta:
+Critical Paths -> (inferior esquerra pantalla general) Estimated Area = 6
+AND = 6 Transistors
+OR = 6 Transistors
+XOR = 8 Transistors
+
+Importar módulo Creado:
+Fitxer -> Obrir Llibreria
+Seleccionarm el mòdul importat i anem a Mòdul -> Mòdul Usuari
+
+
+Status: [Marc: 22/2/2018 9:53]
+
+Tarea 1: Fitxer -> HF_adder.v
+Tarea 2: Fitxer -> FA_v1.v
+Tarea 3: Fitxer -> FA_v2.v
+Tarea 4: Fitxer -> CarryPropagateAdder.v
+Tarea 5: pending
+Tarea 6: pending (Fitxer -> CarryPropagateAdder_tarea6.v) [revisar]
+Tarea 7: Fitxers -> PFA_v1.v i PFA_v2.v
+Tarea 8: Fitxersa -> carry_lookahead.v, CLA_v1.v i pendent CLA_v2.v
